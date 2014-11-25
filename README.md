@@ -3,6 +3,7 @@
 A package providing the function `lintr()`, which allows you to edit interactively potentially complex chains of `dplyr` commands.
 
 For instance
+
     require( mosaicData )
     KidsFeet %>%
       group_by( sex ) %>%
